@@ -51,7 +51,7 @@
 				}
 				.normal {
 					color: #FFFFFF;
-					-webkit-text-stroke: 1px white;
+					-webkit-text-stroke: 1px black;
 				}
 				.heda {
 					background: -webkit-linear-gradient(right,#c700ff,#d2a7f2);
