@@ -50,7 +50,7 @@
       
 				}
 				.normal {
-					color: #BF40BF;
+					color: #FFFFFF;
 					-webkit-text-stroke: 1px white;
 				}
 				.heda {
